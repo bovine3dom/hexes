@@ -20,3 +20,12 @@ Uses https://github.com/odileeds/hexmaps
 # Further work
 
 I probably won't find time but it would be neat to make a userscript that replaces the maps on e.g. https://www.ons.gov.uk/census/maps/choropleth/housing/number-of-cars-or-vans/number-of-cars-3a/no-cars-or-vans-in-household with hexmaps. They include the data as CSVs of ward/authority names -> numbers so it shouldn't be much work
+
+# Oh
+
+Open Innovations have already made a nice interface for their library here
+
+https://open-innovations.org/projects/hexmaps/builder.html
+
+
+I did think it was odd that there wasn't one
